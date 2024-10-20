@@ -37,14 +37,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Acknowledgments
 Inspired by statistical methods in healthcare analytics.
-sql
-Copy code
-
-### Instructions for Use
-1. Copy the content above into a file named `README.md`.
-2. You can further customize the README by adding any specific project details or notes.
-
-Let me know if you need any further modifications or additional sections!
 
 
 
